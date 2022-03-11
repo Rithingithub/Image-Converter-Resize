@@ -4,6 +4,7 @@
 
 
 ### tkinter
+` python -m tkinter `
 The tkinter package (“Tk interface”) is the standard Python interface to the Tcl/Tk GUI toolkit. Both Tk and tkinter are available on most Unix platforms, including macOS, as well as on Windows systems.
 
 Running python -m tkinter from the command line should open a window demonstrating a simple Tk interface, letting you know that tkinter is properly installed on your system, and also showing what version of Tcl/Tk is installed, so you can read the Tcl/Tk documentation specific to that version.
@@ -13,6 +14,7 @@ Tkinter supports a range of Tcl/Tk versions, built either with or without thread
 Tkinter is not a thin wrapper, but adds a fair amount of its own logic to make the experience more pythonic. This documentation will concentrate on these additions and changes, and refer to the official Tcl/Tk documentation for details that are unchanged.
 
 ### PIL or pillow
+` pip install Pillow `
 
 The Python Imaging Library adds image processing capabilities to your Python interpreter.
 
@@ -21,6 +23,7 @@ This library provides extensive file format support, an efficient internal repre
 The core image library is designed for fast access to data stored in a few basic pixel formats. It should provide a solid foundation for a general image processing tool.
 
 ### python-resize-image 1.1.20
+` pip install python-resize-image `
 
 A python package to easily resize images
 This package provides function for easily resizing images.
