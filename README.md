@@ -1,6 +1,11 @@
 # Image-Converter-Resize
 ## TinkerHub Co-coder python project 
 
+To create an Image converter GUI with Python, I will use the Tkinter library in Python which is the best known Python framework for building GUI application. Other than Tkinter we also need PIL library in Python which stands for Python Imaging Library.
+
+## Team member 
+1. Rithin Lehan T [https://github.com/Rithingithub/](https://github.com/Rithingithub/)
+2. Fathima Thahsin [https://github.com/182003aef](https://github.com/182003aef)
 
 
 ### tkinter
